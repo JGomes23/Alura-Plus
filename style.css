@@ -90,3 +90,22 @@ margin: 0 10em;
 .container__descriçao{
   padding: 2em;
 }
+
+.dispositivos__titulo{
+  text-align: center;
+  color: var(--branco-principal);
+}
+.dispositivos__lista{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  font-weight: 700px;
+  font-size: 28px;
+  color: var(--branco-principal);
+}
+
+.disp{
+  display: flex;
+  justify-content: center;
+  color: var(--branco-principal);
+}
