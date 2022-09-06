@@ -108,4 +108,37 @@ margin: 0 10em;
   display: flex;
   justify-content: center;
   color: var(--branco-principal);
+
 }
+
+footer{
+  
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 1em;
+  color: var(--branco-principal);
+  display: block;
+  padding-top: 10rem;
+  padding-bottom: 3rem;
+  
+}
+.rodape__logo{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+
+.rodape__lista{
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  text-decoration: none;
+  color: var(--branco-principal);
+}
+.rodape__texto{
+  
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+color: var(--cinza-secundario);}
