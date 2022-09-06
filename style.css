@@ -81,3 +81,12 @@ margin: 0 10em;
 .descriçao__texto{
   color: var(--cinza-secundario);
 }
+
+.secundario__botao{
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.container__descriçao{
+  padding: 2em;
+}
